@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fondo{
+  background: url("https://img.freepik.com/fotos-premium/hermosas-imagenes-hermosos-paisajes-gran-diseno-cualquier-proposito-hermoso-fondo-pantalla-fondo-color-blanco-naturaleza-verde_155807-9597.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
